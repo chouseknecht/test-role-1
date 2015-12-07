@@ -32,9 +32,9 @@ galaxy_info:
   # platform on this list, let us know and we'll get it added!
   #
   platforms:
-  - name: EL
+    - name: EL
     versions:
-    - 22 
+      - 22 
   #  - 5
   #  - 6
   #  - 7
