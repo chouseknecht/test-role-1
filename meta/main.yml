@@ -21,7 +21,8 @@ galaxy_info:
   platforms:
   - name: EL
     versions:
-    - 22 
+    - all 
+
   galaxy_tags:
   - testing
   - travis
