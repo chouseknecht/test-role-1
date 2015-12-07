@@ -34,7 +34,7 @@ galaxy_info:
   platforms:
   - name: EL
     versions:
-    - 20 
+    - 22 
   #  - 5
   #  - 6
   #  - 7
