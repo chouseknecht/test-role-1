@@ -29,5 +29,5 @@ galaxy_info:
   - automation 
 
 dependencies:
-- { src: chouseknecht.test-role-2 }
+- { src: chouseknecht.test-role-2, name: foo }
 - { role: chouseknecht.test-role-2 }
