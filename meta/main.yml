@@ -130,6 +130,8 @@ galaxy_info:
   - travis
   - automation 
   
-dependencies:
+  dependencies:
   - { src: 'https://github.com/chouseknecht/test-role-2.git' }
+  - { role: 'https://github.com/chouseknecht/test-role-2.git' }
+
 
