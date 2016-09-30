@@ -28,5 +28,5 @@ script:
 notifications:
   webhooks: 
     urls:
-    - https://galaxy-qa.ansible.com/api/v1/notifications/
-      on_failure: never
+      - https://galaxy-qa.ansible.com/api/v1/notifications/
+    on_failure: never
