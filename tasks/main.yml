@@ -1,4 +1,4 @@
 ---
 - name: Say hello
-  debugfoo:
+  debug:
     msg: "Hello from role #1"
