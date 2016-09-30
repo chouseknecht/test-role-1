@@ -1,7 +1,7 @@
 Role Name
 =========
 
-A brief description of the role goes here. Blah, blah, blah.
+A brief description of the role goes here. Blah, blah, blah. Foo, bar, baz
 
 Requirements
 ------------
