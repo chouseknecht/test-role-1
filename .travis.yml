@@ -26,8 +26,5 @@ script:
   - ansible-playbook tests/test.yml -i tests/inventory --syntax-check
 
 notifications:
-  webhooks:
-    urls:
-      - https://galaxy-qa.ansible.com/api/v1/notifications/
-    on_success: always
+  webhooks: https://galaxy-qa.ansible.com/api/v1/notifications/
     on_failure: never
