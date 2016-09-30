@@ -1,2 +1,4 @@
 ---
-# tasks file for test-role-1
+- name: Say hello
+  debug:
+    msg: "Hello from role #1"

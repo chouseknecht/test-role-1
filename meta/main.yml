@@ -28,6 +28,5 @@ galaxy_info:
   - travis
   - automation 
 
-dependencies:
-- { src: chouseknecht.test-role-2 }
-- { src: chouseknecht.test-role-2 }
+dependencies: 
+  - { src: chouseknecht.test-role-2 } 
