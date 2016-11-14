@@ -1,6 +1,8 @@
 Role Name
 =========
 
+[![Build Status](https://travis-ci.org/chouseknecht/test-role-1.svg?branch=master)](https://travis-ci.org/chouseknecht/test-role-1)
+
 Update my brief description. Again.
 
 Requirements
