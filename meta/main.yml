@@ -3,6 +3,7 @@ galaxy_info:
   author: chris houseknecht
   description: testing travis import
   company: Ansible, Inc.
+  role_name: test-me-1
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
