@@ -36,7 +36,7 @@ galaxy_info:
   platforms:
     - name: EL
       versions:
-        - all
+        - 5 
     - name: EOS
       versions:
         - ANY
