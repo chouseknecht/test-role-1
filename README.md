@@ -3,7 +3,7 @@ Role Name
 
 [![Build Status](https://travis-ci.org/chouseknecht/test-role-1.svg?branch=master)](https://travis-ci.org/chouseknecht/test-role-1)
 
-This is a test role with the purpose of testing Travis integration.
+This role is used for testing Galaxy.
 
 Requirements
 ------------
